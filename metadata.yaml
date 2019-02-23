@@ -1,0 +1,32 @@
+_repo: Viaje-a-los-Estados-Unidos-Tomo-III_58910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prieto, Guillermo
+    aliases:
+    - Prieto, José Guillermo Ramón Antonio Agustín
+    - Prieto, Jose Guillermo Ramon Antonio Agustin
+    - Prieto, Fidel Guillermo
+    - Fidel
+    birthdate: 1818
+    deathdate: 1897
+    gutenberg_agent_id: '45281'
+    url: http://www.gutenberg.org/2009/agents/45281
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Guillermo_Prieto
+    - https://es.wikipedia.org/wiki/Guillermo_Prieto_Pradillo
+description: ''
+gutenberg_issued: '2019-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58910'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+- GITenberg
+title: Viaje a los Estados Unidos, Tomo III
+url: http://www.gutenberg.org/ebooks/58910
