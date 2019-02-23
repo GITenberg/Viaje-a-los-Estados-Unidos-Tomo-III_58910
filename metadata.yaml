@@ -1,5 +1,8 @@
 _repo: Viaje-a-los-Estados-Unidos-Tomo-III_58910
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58910-h/images/cover.jpg
 creator:
   author:
     agent_name: Prieto, Guillermo
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Guillermo_Prieto
     - https://es.wikipedia.org/wiki/Guillermo_Prieto_Pradillo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58910#Viaje-a-los-Estados-Unidos-Tomo-III
 gutenberg_issued: '2019-02-18'
 gutenberg_type: Text
 identifiers:
